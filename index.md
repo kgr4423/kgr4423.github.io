@@ -1,1 +1,1 @@
-[[article01]]
+[kiji01](article01)
