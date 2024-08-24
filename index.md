@@ -1,1 +1,1 @@
-[kiji01](article01)
+[kiji01.md](article01)
